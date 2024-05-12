@@ -1,6 +1,5 @@
-public class App {
+public class Yde {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
         System.out.println("양다은!");
     }
 }
